@@ -242,4 +242,11 @@ h2 {
 .containerg4 {
     display: flex;
     justify-content: center;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    text-align: center;
+}
+
+th {
+    font-size: 150%;
 }
